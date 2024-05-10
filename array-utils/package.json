@@ -1,0 +1,42 @@
+{
+  "name": "johnex-utils",
+  "version": "0.3.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "johnex-utils": "0.3.0",
+    "next": "14.2.3",
+    "react": "^18",
+    "react-dom": "^18"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.3",
+    "typescript": "^5"
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "/src/page.tsx",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Johnnnex/array-utils.git"
+  },
+  "keywords": [
+    "tea",
+    "johnex",
+    "utility",
+    "tea.xyz"
+  ],
+  "author": "John O.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Johnnnex/array-utils/issues"
+  },
+  "homepage": "https://github.com/Johnnnex/array-utils#readme"
+}
